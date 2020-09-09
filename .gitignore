@@ -1,0 +1,11 @@
+# CMake files
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+
+# build files
+build
+
+#Ctags
+tags
